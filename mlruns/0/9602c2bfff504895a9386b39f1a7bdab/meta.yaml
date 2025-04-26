@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/0/9602c2bfff504895a9386b39f1a7bdab/artifacts
+end_time: 1745695243602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9602c2bfff504895a9386b39f1a7bdab
+run_name: overjoyed-colt-166
+run_uuid: 9602c2bfff504895a9386b39f1a7bdab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745693797903
+status: 3
+tags: []
+user_id: root
